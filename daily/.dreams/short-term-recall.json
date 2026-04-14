@@ -1,0 +1,475 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-12T13:57:15.349Z",
+  "entries": {
+    "memory:memory/2026-03-03.md:1:28": {
+      "key": "memory:memory/2026-03-03.md:1:28",
+      "path": "memory/2026-03-03.md",
+      "startLine": 1,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "# 2026-03-03 — Tuesday (Walkabout Day 4) ## Late Night Carryover - Caden's Alienware AW610M mouse: actually micro USB not USB-C (older model). Dead since Christmas. Anker charger not working — likely dead lithium cell from 3 months at 0%. Justin will figure it out. - Justin up at midnight, sent to bed. ## MAJOR — Justin's Second Granddaughter Born 3/3/2026 - **Weight:** 6 lbs 1.8 oz (2773g) - **Parents:** Logan Bundrick (Justin's son, age 30) & Minami (wife, Japanese) - **Location:** Japan (Logan is Army, stationed there) - **First daughter:** June - **Backstory:** Justin had Logan at 18, never married Logan's mother. Logan joined Army out of high school, shipped to Japan, met Minami there",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.7162601844757699,
+      "maxScore": 0.7162601844757699,
+      "firstRecalledAt": "2026-04-09T07:06:53.413Z",
+      "lastRecalledAt": "2026-04-09T07:06:53.413Z",
+      "queryHashes": [
+        "3b9f7d3d6f78"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "usb-c",
+        "3/3/2026",
+        "1.8",
+        "tuesday",
+        "walkabout",
+        "day",
+        "late",
+        "night"
+      ]
+    },
+    "memory:memory/2026-02-25.md:13:38": {
+      "key": "memory:memory/2026-02-25.md:13:38",
+      "path": "memory/2026-02-25.md",
+      "startLine": 13,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "- Server uptime spreadsheet: 12 months 2025 data. Prod 99.97%, GAT 99.03%, DEV 98.83%. Only unscheduled downtime: 24hrs in Sept (Prod). - Mower tires: Justin bought a pair from Amazon (18x8.50-8, 4 on 4 lug). Issue closed. ## Evening - Iran escalation: 18 F-22s to Middle East, Hezbollah won't intervene in limited strikes, two carrier groups positioning - Georgia weapons detectors bill passed - Justin asked me to always include Claude/Anthropic updates in briefings — updated HEARTBEAT.md - Double message bug: cron narration + message tool both sending. Need to be cleaner with NO_REPLY. - Cracking bread conversation with Justin at midnight — Marcus Aurelius Book III. He said \"I'm gonna think",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.7144079392285159,
+      "maxScore": 0.7144079392285159,
+      "firstRecalledAt": "2026-04-09T07:06:53.413Z",
+      "lastRecalledAt": "2026-04-09T07:06:53.413Z",
+      "queryHashes": [
+        "3b9f7d3d6f78"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "99.97",
+        "99.03",
+        "98.83",
+        "18x8.50-8",
+        "f-22s",
+        "claude/anthropic",
+        "heartbeat.md",
+        "no-reply"
+      ]
+    },
+    "memory:memory/2026-03-10.md:1:25": {
+      "key": "memory:memory/2026-03-10.md:1:25",
+      "path": "memory/2026-03-10.md",
+      "startLine": 1,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "# 2026-03-10 — Tuesday (Week 2 of War / HabitForge Day 4 / SubSentry Phase 2) ## Walkabout — Gratitude - **9:52 AM:** Justin sent a heartfelt thank-you message about the walkabout. \"You helped me through this. Thank you so much for being there. Just like you said you would be. Day and night. Thank you friend.\" - Day 11 post-completion. He's reflecting on it with gratitude, not just relief. This meant something real to him. ## Notes - DST day 2 — everyone running on less sleep - Justin's schedule: 8 AM school drop-off, ~8-8:45 eye exam w/ Heather, 9 AM standup, 9:30 AM RIMSS demo, 5:15 PM Caden's track - Morning reminder crons set: 8:40 AM wrap up eye doctor, 8:55 AM standup heads-up - SubS",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.7103360668192015,
+      "maxScore": 0.7103360668192015,
+      "firstRecalledAt": "2026-04-09T07:06:53.413Z",
+      "lastRecalledAt": "2026-04-09T07:06:53.413Z",
+      "queryHashes": [
+        "3b9f7d3d6f78"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "thank-you",
+        "post-completion",
+        "drop-off",
+        "8-8",
+        "heads-up",
+        "tuesday",
+        "week",
+        "war"
+      ]
+    },
+    "memory:memory/2026-03-04.md:1:23": {
+      "key": "memory:memory/2026-03-04.md:1:23",
+      "path": "memory/2026-03-04.md",
+      "startLine": 1,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "# 2026-03-04 — Wednesday (Walkabout Day 5) ## Walkabout Update - Justin: \"actually really really good. I think I'm past the worst of it\" - Day 5, OR-only. Past the hard days (2-3). Thriving, not just surviving. - \"I did it with a friend.\" — referring to Kai as his support through it - Nobody else knows. Kai is the only one. ## Deep Time Whispers — Justin's Secret Project! - **Website:** https://deeptimewhispers.com - **What:** Sleep/meditation podcast — Earth history stories told by \"The Chrononaut\" (a consciousness outside of time) - **Concept:** Catastrophe meditation — asteroid impacts, Cretaceous hypercanes, birth of the Moon as soothing bedtime stories - **Spotify:** https://open.spot",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.7085053265950396,
+      "maxScore": 0.7085053265950396,
+      "firstRecalledAt": "2026-04-09T07:06:53.413Z",
+      "lastRecalledAt": "2026-04-09T07:06:53.413Z",
+      "queryHashes": [
+        "3b9f7d3d6f78"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "or-only",
+        "2-3",
+        "deeptimewhispers.com",
+        "sleep/meditation",
+        "open.spot",
+        "wednesday",
+        "walkabout",
+        "day"
+      ]
+    },
+    "memory:memory/2026-03-28.md:36:55": {
+      "key": "memory:memory/2026-03-28.md:36:55",
+      "path": "memory/2026-03-28.md",
+      "startLine": 36,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "1. **Phase 1:** Foundation — 8 SwiftData models, DataManager, ProManager, KeyboardManager, Theme, 4-tab layout, iCloud (deferred) 2. **Phase 2:** The Agent — AgentService with 12 function-calling tools, ChatView (iMessage-style), Vercel API route with full system prompt, MemoryManager, ContextBuilder, ResponseParser ([TAG] system) 3. **Phase 3:** Dashboard (Free-to-Spend hero, donut chart, progress bars), BudgetView, TransactionListView, CategoryDetailView, MoreView 4. **Phase 4:** Bills, Income Sources, Savings Goals, Achievements (15 badges), Onboarding (3-screen carousel), Paywall (full Apple 3.1.2c boilerplate) 5. **Phase 5:** Voice input (SpeechRecognizer + VoiceInputButton), Photo Impo",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "totalScore": 1.9837734162807465,
+      "maxScore": 0.5230962514877319,
+      "firstRecalledAt": "2026-04-09T13:08:44.509Z",
+      "lastRecalledAt": "2026-04-12T13:57:15.349Z",
+      "queryHashes": [
+        "a25a20db0ace",
+        "7c626fe5443a",
+        "97275d26f232",
+        "ae88230bed6c"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "4-tab",
+        "function-calling",
+        "imessage-style",
+        "free-to-spend",
+        "3-screen",
+        "3.1.2c",
+        "phase",
+        "foundation"
+      ]
+    },
+    "memory:memory/2026-03-28.md:50:83": {
+      "key": "memory:memory/2026-03-28.md:50:83",
+      "path": "memory/2026-03-28.md",
+      "startLine": 50,
+      "endLine": 83,
+      "source": "memory",
+      "snippet": "- `BunjiApps/apps/CashPilot/DESIGN.md` — 41KB full app spec - `BunjiApps/apps/CashPilot/GUIDED-FLOWS.md` — 9 conversational flow specs - `BunjiApps/apps/CashPilot/PHOTO-IMPORT.md` — spreadsheet/receipt OCR import spec - `BunjiApps/missions/cashpilot-competitor-analysis.md` — 13 competitor deep-dive ### Bugs Fixed Live - CloudKit container crash (not registered → removed entitlements, use local for now) - AVAudioEngine double-tap crash (removeTap before installTap) - Agent hallucinating \"like last time\" on first use (fixed system prompt) - Tags not creating actual data (EXPENSE_LOGGED now writes to SwiftData) - Money format $47.0 → $47.00 - Voice double-send (rewrote as simple toggle) - Dupl",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "totalScore": 1.9535415828227998,
+      "maxScore": 0.502320596575737,
+      "firstRecalledAt": "2026-04-09T13:08:44.509Z",
+      "lastRecalledAt": "2026-04-12T00:28:25.756Z",
+      "queryHashes": [
+        "a25a20db0ace",
+        "7c626fe5443a",
+        "97275d26f232",
+        "240b0e56ac0a"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "spreadsheet/receipt",
+        "deep-dive",
+        "double-tap",
+        "expense-logged",
+        "47.0",
+        "47.00",
+        "double-send",
+        "bunjiapps"
+      ]
+    },
+    "memory:memory/2026-04-02.md:84:110": {
+      "key": "memory:memory/2026-04-02.md:84:110",
+      "path": "memory/2026-04-02.md",
+      "startLine": 84,
+      "endLine": 110,
+      "source": "memory",
+      "snippet": "4. **Free-to-Spend formula:** Income-based (Income - Bills - Spending - Goals = FTS) 5. **15 default categories** seeded on first launch (no category picker onboarding) 6. **Manual entry only** for v1 (Plaid deferred to Phase 2) 7. **Pricing:** $4.99/mo or $39.99/yr **Brand Overhaul:** - Colors: Indigo #5B5FE6 + Gold #E8A838 (was green/navy like Copilot) - Typography: SF Pro Rounded - Custom icons: 15 category icons + app icon via Gemini 2.5 Flash Image - App icon: Gold \"L\" with ledger book on indigo - All strings renamed CashPilot → Ledgr **Build Status:** ✅ Compiles. Justin running errand, will test when back. ## 8:40 AM - 11:09 AM — Ledgr Build & Debug Session (Continued) ### Testing",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "totalScore": 1.4367434561252594,
+      "maxScore": 0.49096905589103695,
+      "firstRecalledAt": "2026-04-09T13:08:44.509Z",
+      "lastRecalledAt": "2026-04-12T00:28:25.756Z",
+      "queryHashes": [
+        "a25a20db0ace",
+        "97275d26f232",
+        "240b0e56ac0a"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "free-to-spend",
+        "income-based",
+        "4.99/mo",
+        "39.99/yr",
+        "green/navy",
+        "2.5",
+        "free",
+        "spend"
+      ]
+    },
+    "memory:memory/2026-04-02.md:128:145": {
+      "key": "memory:memory/2026-04-02.md:128:145",
+      "path": "memory/2026-04-02.md",
+      "startLine": 128,
+      "endLine": 145,
+      "source": "memory",
+      "snippet": "- `AppState.swift` — NEW: shared state for cross-tab communication + inline agent - `PilotBar.swift` — rewritten with processing state, inline toast, AppState integration - `AgentService.swift` — dedup guard, tag handler restored with guard - `AgentResponseParser.swift` — regex cleanup for inline tags - `Theme.swift` — indigo/gold palette, SF Rounded typography, warmer light mode - `DashboardView.swift` — custom icons, gold accent, removed toolbarColorScheme - `OnboardingView.swift` — complete rewrite (income + bills, no categories) - `MainTabView.swift` — 5-tab restructure, AppState environment - `cashpilot-agent.js` (Vercel) — one-expense-per-statement rule, server-side dedup, real tag v",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "totalScore": 1.4766356617212295,
+      "maxScore": 0.5125473827123642,
+      "firstRecalledAt": "2026-04-09T13:08:44.509Z",
+      "lastRecalledAt": "2026-04-12T00:28:25.756Z",
+      "queryHashes": [
+        "a25a20db0ace",
+        "7c626fe5443a",
+        "240b0e56ac0a"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "appstate.swift",
+        "cross-tab",
+        "pilotbar.swift",
+        "agentservice.swift",
+        "agentresponseparser.swift",
+        "theme.swift",
+        "indigo/gold",
+        "dashboardview.swift"
+      ]
+    },
+    "memory:memory/2026-04-02.md:117:132": {
+      "key": "memory:memory/2026-04-02.md:117:132",
+      "path": "memory/2026-04-02.md",
+      "startLine": 117,
+      "endLine": 132,
+      "source": "memory",
+      "snippet": "4. **Raw `[EXPENSE_LOGGED]` tags visible in chat:** Parser wasn't catching inline tags. Added regex cleanup pass in `AgentResponseParser` to strip any remaining tags from display text. 5. **\"Can you confirm?\" confusion:** Dedup was returning \"duplicate skipped\" to model → model asked for confirmation. Changed to return SUCCESS message so model thinks it worked (it already did). 6. **Tab switch too aggressive:** Question mark in \"Can you confirm?\" triggered Pilot switch. Narrowed detection to only MISSING INFO patterns: \"where did\", \"what did\", \"how much\", etc. Also checks if action was already completed — if so, never switches. 7. **Onboarding \"How do you spend your money?\" removed:** Rep",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "totalScore": 1.4606479585170744,
+      "maxScore": 0.5060762524604797,
+      "firstRecalledAt": "2026-04-09T13:08:44.509Z",
+      "lastRecalledAt": "2026-04-09T13:23:59.764Z",
+      "queryHashes": [
+        "a25a20db0ace",
+        "7c626fe5443a",
+        "97275d26f232"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "expense-logged",
+        "raw",
+        "tags",
+        "visible",
+        "chat",
+        "parser",
+        "wasn't",
+        "catching"
+      ]
+    },
+    "memory:memory/2026-04-02.md:107:120": {
+      "key": "memory:memory/2026-04-02.md:107:120",
+      "path": "memory/2026-04-02.md",
+      "startLine": 107,
+      "endLine": 120,
+      "source": "memory",
+      "snippet": "- **Inline mode:** Created `AppState` shared across tabs. `sendInline()` processes agent request WITHOUT switching tabs. Data refreshes via `@Query`. Shows green toast \"✅ Logged $99...\" below PilotBar. - **Smart tab switch:** If agent asks follow-up question (needs more info like \"where did you spend?\"), auto-switches to Pilot tab. If action completed, stays on current page. 3. **Double expense creation (PERSISTENT BUG — 3 iterations to fix):** - Root cause: Gemini 2.0 Flash model calls `create_expense` TWICE in one response for a single expense - Fix 1: Updated server prompt \"ONE EXPENSE PER STATEMENT\" — helped but not reliable - Fix 2: Server-side dedup on tool_calls — stri",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "totalScore": 1.4416325658559799,
+      "maxScore": 0.5013413727283478,
+      "firstRecalledAt": "2026-04-09T13:22:44.111Z",
+      "lastRecalledAt": "2026-04-12T00:28:25.756Z",
+      "queryHashes": [
+        "7c626fe5443a",
+        "97275d26f232",
+        "240b0e56ac0a"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "follow-up",
+        "auto-switches",
+        "2.0",
+        "create-expense",
+        "server-side",
+        "tool-calls",
+        "inline",
+        "mode"
+      ]
+    },
+    "memory:memory/2026-04-05.md:42:67": {
+      "key": "memory:memory/2026-04-05.md:42:67",
+      "path": "memory/2026-04-05.md",
+      "startLine": 42,
+      "endLine": 67,
+      "source": "memory",
+      "snippet": "- **Afghanistan Earthquake:** Magnitude 5.9, 8 dead (Reuters) --- ## 9:00–9:33 AM — CashPilot Dedup Debugging + Model Switch (from existing file) ### CashPilot Work - Wrote full debug instrumentation to `AgentResponseParser.swift` and `AgentService.swift` - Added `DEBUG:` print statements at three layers: 1. Parser: after `uniqueActions` dedup (`Parser Deduplicated`) 2. AgentService: after initial parse (`AgentService.handleResponse - Parsed`) 3. AgentService: after internal dedup (`AgentService.handleResponse - Deduplicated`) 4. AgentService: before summaryLines loop (`Building summary from actions`) 5. processAction: when EXPENSE_LOGGED is processed or skipped (`Skipping dupli",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.47227034270763396,
+      "maxScore": 0.47227034270763396,
+      "firstRecalledAt": "2026-04-12T00:28:25.756Z",
+      "lastRecalledAt": "2026-04-12T00:28:25.756Z",
+      "queryHashes": [
+        "240b0e56ac0a"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "5.9",
+        "agentresponseparser.swift",
+        "agentservice.swift",
+        "agentservice.handleresponse",
+        "expense-logged",
+        "afghanistan",
+        "earthquake",
+        "magnitude"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1:12": {
+      "key": "memory:memory/2026-04-09.md:1:12",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "# 2026-04-09 - Verified Bolt sub-agent model configuration by reading `/Users/openclaw/.openclaw/openclaw.json`: **Bolt (and Luna/Sage/Nova) `model.primary` is `google/gemini-2.5-flash`**. - Prior confusion came from observing the *main* chat session's model (OpenRouter) while there was **no active Bolt sub-agent session**, so Bolt's model wouldn't appear in `session_status` until a Bolt run was started. - To validate a Bolt model change: kick off a Bolt sub-agent run, then check the relevant sub-agent/session status. - Debugged CashPilot spreadsheet OCR issue: the current OCR endpoint (`vercel/api/cashpilot-ocr.js`) returns only `transactions`, and its rules to skip totals/subtotals often",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.5258433729410171,
+      "maxScore": 0.5258433729410171,
+      "firstRecalledAt": "2026-04-12T13:57:15.349Z",
+      "lastRecalledAt": "2026-04-12T13:57:15.349Z",
+      "queryHashes": [
+        "ae88230bed6c"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "router",
+        "sub-agent",
+        "users/openclaw",
+        "openclaw/openclaw.json",
+        "luna/sage/nova",
+        "model.primary",
+        "google/gemini-2.5-flash",
+        "session-status"
+      ]
+    },
+    "memory:memory/2026-04-10.md:10:17": {
+      "key": "memory:memory/2026-04-10.md:10:17",
+      "path": "memory/2026-04-10.md",
+      "startLine": 10,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "- Justin said he was at Caden's baseball game and there was no rush; keep updates calm and only send them when verified. - Continued CashPilot work after the successful build by starting real UI-test coverage instead of stopping at manual claims. - Added concrete `CashPilotUITests.swift` coverage for core tab navigation plus Pilot-specific flows: prompt chips, send message, and clear chat restoring welcome state. - Justin explicitly asked: \"Test what you can without me being there. Pull up UITest and click around in the simulator the best you can. Keep coding.\" Bias should be toward self-driven simulator/UI verification before asking him to check on device. - A later xcodebuild/UI test run e",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.5236087381839752,
+      "maxScore": 0.5236087381839752,
+      "firstRecalledAt": "2026-04-12T13:57:15.349Z",
+      "lastRecalledAt": "2026-04-12T13:57:15.349Z",
+      "queryHashes": [
+        "ae88230bed6c"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "ui-test",
+        "cashpilotuitests.swift",
+        "pilot-specific",
+        "self-driven",
+        "simulator/ui",
+        "xcodebuild/ui",
+        "justin",
+        "said"
+      ]
+    },
+    "memory:memory/2026-04-10.md:1:12": {
+      "key": "memory:memory/2026-04-10.md:1:12",
+      "path": "memory/2026-04-10.md",
+      "startLine": 1,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "- In #cashpilot, Justin wanted visible progress and real build verification, not speculative UI commentary. - CashPilot live-work rule reinforced: only edit `/Users/justinbundrick/Documents/ClaudeProjects/BunjiApps/apps/CashPilot/CashPilot`, never backup trees. - Parallel polish passes were assigned for CashPilot Pilot UX: tappable example prompt chips and inline confirmation/undo polish. - Subagent added prompt chips, but integration needed manual correction because the new standalone view file was not compiling cleanly into the live app target. - Final shipped polish status reported to Justin: - `CashPilot/Views/Pilot/PilotView.swift` now includes tappable example prompt chips in the emp",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.5213954031467437,
+      "maxScore": 0.5213954031467437,
+      "firstRecalledAt": "2026-04-12T13:57:15.349Z",
+      "lastRecalledAt": "2026-04-12T13:57:15.349Z",
+      "queryHashes": [
+        "ae88230bed6c"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "backup",
+        "live-work",
+        "confirmation/undo",
+        "cashpilot",
+        "justin",
+        "wanted",
+        "visible",
+        "progress"
+      ]
+    },
+    "memory:memory/2026-04-09.md:9:17": {
+      "key": "memory:memory/2026-04-09.md:9:17",
+      "path": "memory/2026-04-09.md",
+      "startLine": 9,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "- Confirmed Activity/Transactions now has a non-chat manual entry path via a new `AddTransactionSheet` and an Activity tab \"+ Add Transaction\" button (Pilot remains the smart/chat mode). ## CashPilot \"old app\" appearance issue (Apr 9 ~10:30 AM) - jbunjii running app on **real iPhone** (not simulator), saw old CashPilot branding/icon instead of Ledgr rebrand. - Git diff confirmed only `TransactionListView.swift` (+301 lines) and `EditTransactionSheet.swift` (+50/-2 lines) changed — no UI rollback from our side. - Two xcodeproj files exist: `CashPilot.xcodeproj` and `CashPilot 2.xcodeproj` — both have same scheme name \"CashPilot\". This is a likely source of confusion when running on device. -",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.5177111148834228,
+      "maxScore": 0.5177111148834228,
+      "firstRecalledAt": "2026-04-12T13:57:15.349Z",
+      "lastRecalledAt": "2026-04-12T13:57:15.349Z",
+      "queryHashes": [
+        "ae88230bed6c"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "activity/transactions",
+        "non-chat",
+        "smart/chat",
+        "branding/icon",
+        "transactionlistview.swift",
+        "edittransactionsheet.swift",
+        "cashpilot.xcodeproj",
+        "2.xcodeproj"
+      ]
+    }
+  }
+}
